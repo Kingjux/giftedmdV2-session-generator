@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": " Don't remove message just add app name and deploy",
+        "value": "",
         "required": false 
       }
     }   
