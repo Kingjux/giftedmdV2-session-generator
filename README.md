@@ -21,7 +21,7 @@ QR- WEB - PAIR CODE FOR BOT WITH WHISKEYSOCKETS/BAILEYS
 
 FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Giftedmaurice/giftedmdV2-session-generator/fork"><img title="WEB" src="https://img.shields.io/badge/FORK WEB-QR?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Giftedmaurice/giftedmdV2-session-generator/fork"><img title="WEB" src="https://img.shields.io/badge/FORK Gifted-QR?color=black&style=for-the-badge&logo=stackshare"></a>
 
 Now Deploy
     <br>
