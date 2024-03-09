@@ -1,4 +1,4 @@
-# giftedmdV2-session-generator
+# GiftedmdV2-session-generator
 - Kindly star my repo
 - Fork and edit as you wish
 - Deploy to your favourite hosting server eg Heroku or Render or self hosting
@@ -26,7 +26,8 @@ FORK THE REPOSITORY (Repo)
 Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=https://github.com/Giftedmaurice/giftedmdV2-session-generator' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/>
-
+# `Owner`
+ a href="https://github.com/Giftedmaurice"><img src="https://github.com/Giftedmaurice.png" width="250" height="250" alt="Giftedmaurice"/></a>
 
 # `Contributor` 
 <a href="https://github.com/Xcelsama"><img src="https://github.com/Xcelsama.png" width="250" height="250" alt="Xcelsama"/></a>
