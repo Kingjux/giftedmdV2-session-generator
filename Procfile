@@ -1,1 +1,0 @@
-web: node qr.js 
